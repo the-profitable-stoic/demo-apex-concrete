@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-apex-concrete.dream-surge.com/sitemap-index.xml
